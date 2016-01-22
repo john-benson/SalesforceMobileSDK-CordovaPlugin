@@ -29,9 +29,9 @@
     <engine name="cordova-ios" version="3.9.2" />
   </engines>
 
-  <dependency id="cordova-plugin-whitelist" version="1.2.1" />
-  <dependency id="cordova-plugin-device" version="1.1.1" />
-  <dependency id="phonegap-plugin-push" version="1.5.2" />
+  <dependency id="cordova-plugin-whitelist" commit="1.2.1" />
+  <dependency id="cordova-plugin-device" commit="1.1.1" />
+  <dependency id="phonegap-plugin-push" commit="1.5.2" />
 
   <!-- ios -->
   <platform name="ios">
